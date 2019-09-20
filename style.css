@@ -76,8 +76,8 @@ header .menu-toggle {
     left: -100%;
     background-color: #38456E;
     top: 9.5vh;
-    -webkit-transition: 0.002s;
-    transition: 0.002s;
+    -webkit-transition: 0.2s;
+    transition: 0.2s;
   }
   header nav ul {
     -webkit-box-orient: vertical;
